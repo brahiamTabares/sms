@@ -38,8 +38,10 @@ style: |
 </b>
 </div>
 
-<div style="position: absolute; left: 30%; top:45%; width: 70%; text-align: left"><h1 style="color: gray">Seminario</h1></div>
-<div style="position: absolute; left: 30%; top:55%; width: 70%; text-align: left"><h5 style="color: gray">Autor</h5></div>
+<div style="position: absolute; left: 30%; top:45%; width: 70%; text-align: left"><h1 style="color: gray">Seminario de Trabajo de Grado</h1></div>
+<div style="position: absolute; left: 50%; top:58%; width: 50%; text-align: left"><h5>Brahiam David Tabares Vallejo</h5><h5>Sandra Milena Quintero Leal</h5>
+<h5>Juan Alvaro Díaz Trujillo</h5><h5>Daniela Villegas</h5>
+<h5>Christian Andrés Candela</h5></div>
 
 <div style="position: absolute; left: 93%; top:10px; ">
 
@@ -76,6 +78,7 @@ style: |
 </style>
 
 # Calidad de software
+## La realización de pruebas de software de manera eficiente y efectiva desempeña un papel fundamental en la garantía de la seguridad y calidad de los productos de software. 
 
 ---
 
@@ -86,6 +89,10 @@ style: |
 </style>
 
 # Automatización de pruebas
+## El uso de una herramienta de automatización agiliza significativamente el proceso de pruebas, lo que a su vez contribuye a una etapa de prueba más rápida y eficiente. 
+
+
+
 
 ---
 
@@ -104,7 +111,7 @@ style: |
   }
 </style>
 
-# Objetivo propuesto.
+# Realizar un estudio de mapeo sistemático (SMS) para identificar las herramientas y tecnologías que son utilizadas para elaboración de las pruebas de software automatizadas.
 
 ---
 
@@ -121,18 +128,12 @@ style: |
     content: 'Metodología';
   }
 </style>
+<div style="position: absolute; left: 25%; top:15%; width: 70%; text-align: left"><h1 style="color: gray">Proceso de Mapeo Sistemático</h1></div>
 
-- Planificación.
-- Búsqueda de Estudios.
-- Análisis de Calidad.
-- Extracción de datos.
-- Análisis y clasificación del estudio  
-- Resultados.
+<div style="position: absolute; left: 250px; top:220px; ">
 
+![Alt text](image.png)
 
-<div style="position: absolute; left: 50%; top:140px; ">
-
-![](imagen.png)
 </div>
 
 ---
@@ -146,9 +147,9 @@ style: |
 # Planificación.
 
 
-<div style="position: absolute; left: 50%; top:140px; ">
+<div style="position: absolute; left: 30%; top:85px; ">
 
-![](imagen.png)
+![](image-1.png)
 </div>
 
 ---
@@ -160,15 +161,31 @@ style: |
 </style>
 
 # Búsqueda de estudios.
+###(“Automated testing tools" OR "Test automation tools" OR “testing automation tools” OR “Automated testing technologies” OR “Test automation Technology” OR “Test automation frameworks”) AND (“Software”)
 
+<div style="position: absolute; left: 30%; top:140px; ">
 
-<div style="position: absolute; left: 50%; top:140px; ">
-
-![](imagen.png)
+![](![Alt text](image-2.png))
 </div>
 
 ---
 
+
+<style scoped>
+.texto:after {
+    content: 'Metodología';
+  }
+</style>
+
+# Búsqueda de estudios.
+
+
+<div style="position: absolute; left: 30%; top:140px; ">
+
+![](![Alt text](imagen.png))
+</div>
+
+---
 <style scoped>
 .texto:after {
     content: 'Metodología';
@@ -269,9 +286,12 @@ style: |
   }
 </style>
 
-- uno
-- dos
-- tres ...
+- Maheshwari H, Mohammad S, Rana I, Goswami P. A REVIEW OF TOOLS AND TECHNIQUES USED IN SOFTWARE TESTING. SSRN Electronic Journal. 2019 
+- Albarka U, Zhanfang C. A Study of Automated Software Testing: Automation Tools and Frameworks. International Journal of Computer Science Engineering (IJCSE). 2019 
+- Jacob P, Mani P. A framework for evaluating performance of software testing tools. International Journal of Scientific and Technology Research. 2020 
+- Jacob P, Mani P. A performance estimation model for software testing tools. International Journal of Engineering and Advanced Technology. 2019 
+- García B, Gallego M, Gortázar F, Munoz-Organero M. A survey of the selenium ecosystem. Electronics (Switzerland). 2020
+
 
 ---
 
