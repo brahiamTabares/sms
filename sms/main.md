@@ -109,6 +109,9 @@ style: |
 .texto:after {
     content: 'Objetivo';
   }
+  section {
+    text-aling:justify;
+  }
 </style>
 
 # Realizar un estudio de mapeo sistemático (SMS) para identificar las herramientas y tecnologías que son utilizadas para elaboración de las pruebas de software automatizadas.
@@ -147,29 +150,12 @@ style: |
 # Planificación.
 
 
-<div style="position: absolute; left: 30%; top:85px; ">
+<div style="position: absolute; left: 30%; top:100px; ">
 
-![](image-1.png)
+![](image-5.png)
 </div>
 
 ---
-
-<style scoped>
-.texto:after {
-    content: 'Metodología';
-  }
-</style>
-
-# Búsqueda de estudios.
-###(“Automated testing tools" OR "Test automation tools" OR “testing automation tools” OR “Automated testing technologies” OR “Test automation Technology” OR “Test automation frameworks”) AND (“Software”)
-
-<div style="position: absolute; left: 30%; top:140px; ">
-
-![](![Alt text](image-2.png))
-</div>
-
----
-
 
 <style scoped>
 .texto:after {
@@ -182,7 +168,39 @@ style: |
 
 <div style="position: absolute; left: 30%; top:140px; ">
 
-![](![Alt text](imagen.png))
+![](image-2.png)
+</div>
+
+---
+
+
+<style scoped>
+.texto:after {
+    content: 'Metodología';
+  }
+</style>
+
+# Búsqueda de estudios.
+
+
+<div style="position: absolute; left: 30%; top:140px; ">
+
+![](image-3.png)
+</div>
+
+---
+<style scoped>
+.texto:after {
+    content: 'Metodología';
+  }
+</style>
+
+# Búsqueda de estudios.
+
+
+<div style="position: absolute; left: 20%; top:140px; ">
+
+![](image-4.png))
 </div>
 
 ---
@@ -193,6 +211,10 @@ style: |
 </style>
 
 # Análisis de calidad.
+- índice de citas de estudio – SCI, 
+- índice de relación con preguntas de investigación – IRRQ 
+- índice de valor de contenido – CVI
+
 
 
 <div style="position: absolute; left: 50%; top:140px; ">
