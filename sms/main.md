@@ -1,6 +1,6 @@
 ---
 marp: true
-header: <div class="encabezado"><img src='franjaSuperior.png'  /><div class="titulo"><h1 class="texto"></h1></div></div>
+header: <div class="encabezado"><img src='franjaSuperior.png'  /><div class="titulo"><h1 class="texto" style="color: black"></h1></div></div>
 footer: '![image](franjaInferior.png)' 
 _header: '' 
 _footer: '' 
@@ -58,10 +58,19 @@ style: |
   }
 </style>
 
-- Contexto
-- Objetivo
-- Metodología
-- Conclusiones
+
+# - Contexto
+# - Objetivo
+# - Metodología
+# - Conclusiones
+
+<div style="position: absolute; width:100%; text-align:center; top:17%">
+
+![Alt text height:500](contenido.png)
+</div>
+
+</div>
+
 
 ---
 
