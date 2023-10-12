@@ -405,11 +405,23 @@ El uso de una herramienta de automatización agiliza significativamente el proce
   }
 </style>
 
-- # Conclusión 1 
+- # Conclusión 
+El SMS permitió identificar la existencia de estudios que relacionan herramientas de automatización de pruebas, sus tecnologías y aplicaciones compatibles que pueden orientar a los interesados en la toma de decisiones con una revisión y selección informada de las herramientas existentes que pueden utilizar en el desarrollo y ejecución de sus pruebas.
+
+---
+<style scoped>
+.texto:after {
+    content: 'Conclusiones';
+  }
+</style>
+
+- # Pilotos
+Actualmente se está realizando un piloto de realización de pruebas en la herramienta SMS Builder con Selenium conjuntamente con JUnit, Cucumber, Java y Chrome. 
+
+Permitiendo identificar una serie de aspectos técnicos y metodológicos clave en la creación de escenarios de pruebas, la implementación del Modelo de Objetos de Página (POM) y el uso del lenguaje Gherkin a través de Cucumber.
 
 
 ---
-
 
 <div style="position: absolute; left: 0; top:35%; background-color: rgb(212, 231, 205); width: 100%; display:table-cell; text-align: center; padding: 30px 0;">
 <b>
