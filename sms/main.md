@@ -405,7 +405,7 @@ El uso de una herramienta de automatización agiliza significativamente el proce
   }
 </style>
 
-- # Conclusión 
+# - Conclusión 
 El SMS permitió identificar la existencia de 53 estudios que relacionan 155 herramientas de automatización de pruebas, con 98 tecnologías y aplicaciones compatibles que pueden orientar a los interesados en la toma de decisiones, con una revisión y selección informada de las herramientas existentes que pueden utilizar en el desarrollo y ejecución de sus pruebas. 
 
 ---
@@ -415,7 +415,7 @@ El SMS permitió identificar la existencia de 53 estudios que relacionan 155 her
   }
 </style>
 
-- # Pilotos
+# - Trabajo futuro
 Dados estos resultados en la investigación, como trabajo futuro se plantea la realización de pilotos de automatización de pruebas con las principales herramientas identificadas en el mapeo. Lo anterior con el fin de explorar y evidenciar los aspectos técnicos y metodológicos, claves en la creación de escenarios de pruebas y la implementación de patrones de diseño
 
 
